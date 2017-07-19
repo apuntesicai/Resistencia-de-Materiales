@@ -1,7 +1,9 @@
-# Resistencia-de-Materiales
-PDF con los exámenes resueltos de resistencia de Materales
+<snippet>
 
-En el PDF están resuletos los exámenes de:
+# Resistencia de Materiales
+PDF con los exámenes resueltos de Resistencia de Materales
+
+En el PDF están resuletos los exámenes de los años:
 
 ### Junio de 2016
 ### Diciembre de 2015
@@ -10,3 +12,4 @@ En el PDF están resuletos los exámenes de:
 ### Junio de 2014
 ### Diciembre de 2013
 ### Mayo de 2013
+</snippet>
